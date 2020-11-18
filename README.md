@@ -1,2 +1,3 @@
 # rockpaperscissor
-image classifier using tensorflow to classifier image rock, paper, scissors
+Image classifier using tensorflow to classifier image rock, paper, scissors.
+
